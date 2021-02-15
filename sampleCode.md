@@ -1,5 +1,5 @@
 
-<link href="https://github.com/TomoyaTsunoda/test/style.less" rel="stylesheet"></link>
+<link rel=”stylesheet” href=”https://TomoyaTsunoda.github.io/test/style.less"/>
 
 **<span style="font-size: 200%;">レビュー表示方法</span>**
 Ctrl+Shift+P > Markdown preview to the side
